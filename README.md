@@ -38,7 +38,7 @@ The backend follows a layered architecture based on:
 - Models
 
 Frontend repository:  
-[WOMS Frontend](LINK_TO_FRONTEND_REPOSITORY)
+[WOMS Frontend](https://github.com/xwassim/WOMS-frontend)
 
 ---
 
